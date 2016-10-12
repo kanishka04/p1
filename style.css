@@ -1,0 +1,38 @@
+.description
+{
+  color:grey;
+}
+img
+{
+  height:100px;
+  width:200px;
+
+  margin-right: 10px;
+}
+.content
+{
+  max-width:948px;
+  margin: 0 auto;
+}
+.header
+{
+  font-size=48px;
+  text-align:centre;
+  padding:20px;
+  background-color: #33BEBE;
+  margin:0;
+}
+.row
+{
+  display: flex;
+  height:100%;
+  margin-top: 10px;
+  justify-content:center;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
